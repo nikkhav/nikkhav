@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikkhav
 - 👀 I’m interested in Frontend and Blockchain development
-- 🌱 I’m currently learning Solidity and Hardhat.js
-- 💞️ I’m looking to collaborate on any projects on React or Solidity
+- 🌱 I’m currently learning Next.JS 13 & Algorithms
+- 💞️ I’m looking to collaborate on any projects on React or Next.JS
 - 📫 You can reach me in telegram @nikkhav
 
 <img src="https://www.codewars.com/users/NikKhav14/badges/large" />
