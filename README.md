@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nikkhav
 - 👀 I’m interested in Frontend and Backend web development
-- 🌱 I’m currently learning Laravel & Algorithms
-- 💞️ I’m looking to collaborate on any projects on React or Next.JS
+- 🌱 I’m currently learning Algorithms & Unreal Engine 
+- 💞️ I’m looking to collaborate on any projects
 - 📫 You can reach me in telegram @nikkhav
 
 <img src="https://www.codewars.com/users/NikKhav14/badges/large" />
