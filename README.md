@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikkhav
-- 👀 I’m interested in Frontend and Backend web development
-- 🌱 I’m currently learning Algorithms  
+- 👀 I’m interested in Web Development & Data Science 
 - 💞️ I’m looking to collaborate on any projects
 - 📫 You can reach me in telegram @nikkhav
 
