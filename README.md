@@ -3,7 +3,9 @@
 - 💞️ I’m looking to collaborate on any projects
 - 📫 You can reach me in telegram @nikkhav
 
-<img src="https://www.codewars.com/users/NikKhav14/badges/large" />
+| LeetCode | CodeWars |
+| :------: | :------: |
+| <img src="https://leetcode-badge-sage.vercel.app/badge/nikkhav?theme=neutral" alt="LeetCode Badge" /> | <img src="https://www.codewars.com/users/NikKhav14/badges/large" alt="CodeWars Badge" /> |
 
 <!---
 nikkhav/nikkhav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
