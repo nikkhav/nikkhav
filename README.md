@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikkhav
-- 👀 I’m interested in Web Development & Data Science 
+- 👀 I’m interested in Data Engineering & AI
 - 💞️ I’m looking to collaborate on any projects
 - 📫 You can reach me in telegram @nikkhav
 
